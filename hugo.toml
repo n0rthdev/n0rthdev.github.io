@@ -55,10 +55,10 @@ sections = [
   "about",
   "education",
   "experience",
-  "client-and-work",
-  "testimonial",
+#  "client-and-work",
+#  "testimonial",
   "contact",
-  "newsletter",
+#  "newsletter",
 ]
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'
