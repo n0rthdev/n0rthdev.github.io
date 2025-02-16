@@ -4,7 +4,7 @@
 showcase:
   enable: true
   image:
-    x: "images/showcase/head_green.png"
+    x: "images/showcase/head_transparent.png"
     _2x: "images/showcase/showcase@2x.png"
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"

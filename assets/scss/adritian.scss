@@ -146,6 +146,10 @@ br {
   font-size: 24%;
 }
 
+//img {
+//  background: $base-color;
+//}
+
 @media (min-width: 992px) {
   .lead {
     font-size: 18px;
@@ -388,5 +392,6 @@ footer_links .nav-item .nav-link::after {
   .dropdown-item:hover{
     background-color: $base-color
   }
+
 }
 /* end dark mode */
