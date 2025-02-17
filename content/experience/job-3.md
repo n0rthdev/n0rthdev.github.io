@@ -1,19 +1,42 @@
 ---
 date: 2024-12-01T00:00:00+01:00
 draft: false
-title: "Job #3"
-jobTitle: "CIO"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2024-now"
+title: "First time having a C-something job title"
+jobTitle: "CTO"
+company: "Teamecho"
+location: "Linz, Austria"
+duration: "2019-2025"
 
 ---
-### 3rd job: CIO
 
-As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
+[//]: # (### startup life)
 
-During my tenure, I've spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious "Digital Innovation Award 2024".
+Teamecho is a SaaS platform for collecting and analyzing employee feedback. I started as the first engineer
+and took over the development responsibilities from a contractor. In the following years, we built up our in-house
+software development and operations team.
 
-I'm particularly proud of our "Green Computing" program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
 
-In my role, I also serve as a member of the executive board, helping shape the company's long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
+##### Key responsibilities
+- Development and operation of the Teamecho SaaS product
+- Responsible technical architect for the backend
+- Developing the product roadmap together with the CEOs and product management
+- Lead the technical development of the product
+- Developer productivity engineering
+
+##### Key achievements
+- Established software architecture to support the growing number of features
+- Established development, deployment, monitoring, operations, and tech support workflows to support
+  the company's scaling of the business.
+- Migrated the application to the cloud (Microsoft Azure)
+- Integrated AI Technologies into the product (custom models and 3rd party services)
+- Hired and developed the current engineering team
+
+##### Tech stack
+- Backend: Spring Boot, OpenApi, Kotlin, Java
+- Frontend: TypeScript, React, Redux, RTK, SCSS
+- Data storage: JPA/Hibernate, Flyway, MySQL, MongoDB, Redis
+- Testing: JUnit, Mockito, JaCoCo, Jest, Cypress
+- Build and Deployment: Gradle, npm, Docker, GitLab CI, Microsoft Azure (using Bicep templates)
+- Development Environment: IntelliJ IDEA, Visual Studio Code, GitLab
+- Monitoring: Azure Application Insights, Grafana
+- Code quality tools: detekt, checkstyle, esLint, Sonar, ArchUnit

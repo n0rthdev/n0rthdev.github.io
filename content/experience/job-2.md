@@ -1,17 +1,35 @@
 ---
 date: 2023-12-01T00:00:00+01:00
 draft: false
-title: "Job #2"
-jobTitle: "Chief Intern"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2023-2024"
+title: "learning consulting business"
+jobTitle: "Software Developer, Data Scientist"
+company: "Cloudflight"
+location: "Linz, Austria"
+duration: "2014-2019"
 
 ---
-### 2nd job: Chief Intern
 
-As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.
+[//]: # (### 2nd job: Chief Intern)
 
-During my internship, I spearheaded the company's first-ever "Innovation Lab" program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company's internship structure.
+Cloudflight is a software development company specializing in enterprise solutions and digital transformation services. I was a team and project leader within the Emerging Technologies segment working in distributed teams. Many of the projects I worked on had one or more data analysis or machine learning components providing services to enterprise applications. Two projects are listed below.
 
-My most significant achievement was the successful implementation of a machine learning algorithm that optimized our resource allocation system. This project not only improved resource utilization by 35% but also led to my eventual promotion to CIO. I also actively participated in community outreach programs, organizing coding workshops for local high school students and contributing to the company's STEM education initiatives.
+
+##### Key responsibilities
+- Designed and implemented enterprise software solutions
+- Analyzed customer requirements
+- Performed data analytics and machine learning in the media, industrial, and retail sectors
+- Contributed to the development of digital agendas for AI topics such as predictive maintenance or natural language processing
+- Conducted candidate interviews and represented the company at career fairs
+
+##### Project: Newsadoo
+- Newsadoo is a news aggregator that uses AI to aggregate news articles by topic to create a personalized news experience. My team at Cloudflight supported Newsadoo in its early stages.
+- Led the technical development of the product and prepared Newsadoo to take back control
+- Implemented the first user-interest based news timeline algorithm
+- Re-implemented the critical endpoints to meet modern web applications performance and security standards
+- Isolated the main application database from other microservices and switched communication to message queues.
+- Moved from an AWS Elastic Beanstalk deployment to a containerized deployment using AWS Fargate.
+- Technologies I used: Spring Boot, Kotlin, Java, Liquibase, Postgres, JUnit, Mockito, Gradle, npm, Docker, Teamcity, AWS (Cloudformation templates), IntelliJ IDEA, GitLab, checkstyle, Sonar, Prometheus, Grafna
+
+##### Project: Data Analysis for Steel Casting
+- Developed a data analysis platform to manage and analyze temperature measurements during the cooling process.
+- Technologies I used: Spring Boot, Kotlin, Java, Python, NumPy, Liquibase, Postgres, InfluxDB, MinIO, JUnit, Mockito, Gradle, npm, Docker, Teamcity, IntelliJ IDEA, GitLab, checkstyle, Sonar
