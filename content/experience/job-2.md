@@ -1,8 +1,8 @@
 ---
 date: 2023-12-01T00:00:00+01:00
 draft: false
-title: "learning consulting business"
-jobTitle: "Software Developer, Data Scientist"
+title: "First long-term job"
+jobTitle: "Software Developer & Team Lead"
 company: "Cloudflight"
 location: "Linz, Austria"
 duration: "2014-2019"

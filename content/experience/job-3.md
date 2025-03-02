@@ -1,8 +1,8 @@
 ---
 date: 2024-12-01T00:00:00+01:00
 draft: false
-title: "First time having a C-something job title"
-jobTitle: "CTO"
+title: "First time at a startup"
+jobTitle: "CTO & Technical Architect"
 company: "Teamecho"
 location: "Linz, Austria"
 duration: "2019-2025"
