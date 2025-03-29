@@ -10,8 +10,8 @@ title="Hello, I'm Martin."
 subtitle="Software Architect & Team Lead"
 button_text="Contact me"
 button_icon="icon-email"
-description="Based in Linz 🇦🇹, I work at <a target='_blank' href='https://www.dynatrace.com/'>Dynatrace</a>, an application performance monitoring company empowering small businesses. Our vision is to build a world where anyone can create a thriving business through accessible tools and technology. <br/>A specialized generalist at heart, I bring a unique blend of expertise across backend systems, mobile development, and infrastructure. Over my career, I've led teams of all sizes—from hands-on coding to scaling engineering groups—always anchored in the 3P framework: <strong>People, Product, Process</strong>.<br/>I'm driven by cultivating high-performing teams that embrace iterative improvement, psychological safety, and purpose-driven work. Whether refining agile workflows or mentoring future leaders, my goal is to build environments where both products <em>and</em> people thrive."
-imgSrc="images/showcase/head.png"
+description="Based in Linz 🇦🇹, I work at <a target='_blank' href='https://www.dynatrace.com/'>Dynatrace</a>, an application performance monitoring company. Our vision is to build a world where anyone can create a thriving business through accessible tools and technology. <br/>A specialized generalist at heart, I bring a unique blend of expertise across backend systems, mobile development, and infrastructure. Over my career, I've led teams of all sizes—from hands-on coding to scaling engineering groups—always anchored in the 3P framework: <strong>People, Product, Process</strong>.<br/>I'm driven by cultivating high-performing teams that embrace iterative improvement, psychological safety, and purpose-driven work. Whether refining agile workflows or mentoring future leaders, my goal is to build environments where both products <em>and</em> people thrive."
+imgSrc="images/showcase/head_transparent.png"
 imgHeight="400"
 >}}
 {{< platform-links >}}
@@ -45,6 +45,8 @@ button2_text="Download resume"
 button3_text="All experience"
 button3_url="/experience"
 >}}
+
+{{% comment %}}
 {{< contact-section
 title="Reach out"
 contact_form_name="Your name"
@@ -57,4 +59,5 @@ contact_email_email="napster2202@gmail.com"
 contact_address_title="My location"
 contact_address_address="🇦🇹 Linz, Austria"
 form_action="https://formspree.io/info@adrianmoreno.info"
-form_method="POST" >}}
+orm_method="POST" >}}
+{{% /comment %}}

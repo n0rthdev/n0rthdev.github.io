@@ -45,6 +45,9 @@ target = "assets/js/vendor/bootstrap.bundle.min.js"
 source = "node_modules/bootstrap-print-css/css/bootstrap-print.css"
 target = "assets/css/bootstrap-print.css"
 
+[[module.mounts]]
+source = "node_modules/particles.js/particles.js"
+target = "assets/js/vendor/particles.js"
 
 [params]
 title = 'Adritian - a high performance hugo theme by Adrián Moreno'
@@ -64,6 +67,9 @@ sections = [
 # logo = '/img/hugo.svg'
 
 homepageExperienceCount = 6
+
+# use particles js for background animation
+particles = true
 
 [params.analytics]
 ## Analytics parameters.
@@ -107,6 +113,10 @@ weight = 0
 
 [languages.en.menus]
 [[languages.en.menus.header]]
+name = 'Home'
+URL = '/'
+weight = 1
+[[languages.en.menus.header]]
 name = 'About'
 URL = '#about'
 weight = 2
@@ -128,6 +138,11 @@ weight = 5
 name = "Contact"
 URL = "#contact"
 weight = 6
+
+[[languages.en.menus.footer]]
+name = "Home"
+URL = "/"
+weight = 1
 
 [[languages.en.menus.footer]]
 name = "About"
